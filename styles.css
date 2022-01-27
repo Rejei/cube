@@ -415,10 +415,6 @@ box-shadow: 42px 42px 29px 47px rgba(34, 60, 80, 0.2) inset;
     transition: transform 1s;
 }
 
-/* .cube:hover{
-    transform: rotateX(0deg) rotateY(0deg) translateZ(-25vmin) !important;
-  } */
-
 .side {
    position: absolute;
    flex-direction: column;
